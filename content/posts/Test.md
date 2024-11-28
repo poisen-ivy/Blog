@@ -9,3 +9,6 @@ tags:
 
 This is a test note for the blog
 ![](https://i.imgur.com/4xoBu7Q.png)
+```python
+print(Hello World)
+```
