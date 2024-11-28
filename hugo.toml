@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://darkgreen-buffalo-352335.hostingersite.com/"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
